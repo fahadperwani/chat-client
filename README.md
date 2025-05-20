@@ -43,9 +43,7 @@ This project contains only the frontend for the flight information chatbot, buil
 Start the development server:
 
 ```bash
-npm start
-# or
-yarn start
+npm run dev
 ```
 
 ## Configuration
